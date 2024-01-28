@@ -1,0 +1,28 @@
+{
+  "name": "lava-lake-red",
+  "displayName": "Lava Lake Red",
+  "description": "A dark fiery red theme.",
+  "version": "0.0.1",
+  "icon": "/ico.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AKCodeWorks/lava-lake-red"
+  },
+  "publisher": "AKCodeWorks",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lava Lake Red Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lava Lake Red Theme-color-theme.json"
+      }
+    ]
+  }
+}
