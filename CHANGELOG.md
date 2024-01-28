@@ -2,6 +2,12 @@
 
 All notable changes to the "Deep Sea Blue" theme will be documented in this file.
 
+## [0.0.2] - 2024-01-27
+
+### Updated
+
+- Extension page to include accurate content.
+
 ## [0.0.1] - 2024-01-27
 
 ### Added

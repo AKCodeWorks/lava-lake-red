@@ -2,7 +2,7 @@
   "name": "lava-lake-red",
   "displayName": "Lava Lake Red",
   "description": "A dark fiery red theme.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "/ico.png",
   "repository": {
     "type": "git",
